@@ -1,12 +1,11 @@
 # bar
 It's been a year and I forgot how github works so I'm doing this again.
 
-one fish
+one potato
 
-two fish
+two potato
 
-red fish 
+three potato
 
-blue fish
+four
 
-buckle my shoe
